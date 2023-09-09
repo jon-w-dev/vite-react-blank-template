@@ -21,3 +21,6 @@
     ✅ pnpm run dev
 
     Happy coding!
+
+
+Make sure you install the ESLint extension if you're using VSCode.

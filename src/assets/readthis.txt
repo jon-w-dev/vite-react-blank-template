@@ -1,0 +1,1 @@
+this folder should include assest like images and stuff to be included in the build process
